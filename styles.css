@@ -1,43 +1,36 @@
 body{
     margin: 0;
     padding: 0;
-}
-
-h1{
-    text-align: center;
+    font-size: 32px;
 }
 
 p{
     padding: 30px;
     border: 5px solid greenyellow;
-    margin: 70px;
+    margin: 60px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-style: italic;
-    font-size: 2em;
+    font-style: italic;   
 }
 
-#box{
-    border: 3px solid black;
-    margin: 20px;
+#parent{
     background-color: aqua;
-    width: 700px;
-}
-
-ul{
-    list-style: none;
+    width: 900px;
+    /* height: 300vh; */
+    border: 3px solid black;
+    margin: auto;
+    padding: 10px;  
+    margin-bottom: 100px; 
     
 }
-li{
-    margin-left:0 ;
-}
+
 .one{
-    background-color: red;
+
 }
 
 .two{
-
+    
 }
 
 .three{
-
+    
 }
